@@ -22,6 +22,6 @@ I'm a **Mathematics and Computer Science student** at the **University of Wrocł
 
 ## 📫 Connect with Me
 - 📧 Email: michalpla05@gmail.com
-- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/michal-plata/)
+- 💼 LinkedIn: [Michał Plata](https://linkedin.com/in/michal-plata/)
 
 Let's connect and build something amazing together! 🚀
