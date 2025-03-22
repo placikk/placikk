@@ -14,7 +14,6 @@ I'm a **Mathematics and Computer Science student** at the **University of Wrocł
 - Check out my profiles:
   - [Codeforces](https://codeforces.com/profile/placik)
   - [AtCoder](https://atcoder.jp/users/placik)
-  - [LeetCode](https://leetcode.com/u/placik)
 
 ## 💡 Tech Stack
 - **Languages**: C++, Python
