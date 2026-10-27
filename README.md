@@ -4,7 +4,7 @@ I study Math & CS at the University of Wrocław and work as an AI engineer. I li
 
 ## Now
 
-- **AI Engineer at Line Control.** I work on online setpoint control for industrial meat-slicing lines. I built a simulator that replays a year of checkweigher data (~43M packs) to benchmark adaptive controllers: robust Kalman filtering, quantile tracking and adaptive conformal inference. I also built a text-to-SQL agent on local LLMs, so plant staff can query production data in plain language.
+- **AI Engineer at Line Control.** Adaptive control for industrial production lines (Kalman filtering, quantile tracking, conformal prediction) evaluated in simulation on historical data, and a text-to-SQL agent on local LLMs.
 - **Bachelor's thesis:** adaptive conformal prediction for time series. The update rule is learned while keeping provable coverage guarantees.
 - **Before that: Algorithm Engineer at Huawei.** Lower bounds for matrix-vector multiplication (with an RL-driven search), and neural inertial navigation for GPS-free tracking on wearables.
 
