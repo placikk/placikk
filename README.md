@@ -5,7 +5,7 @@ I study Math & CS at the University of Wrocław and work as an AI engineer. I li
 ## Now
 
 - **AI Engineer at Line Control.** Adaptive control for industrial production lines (Kalman filtering, quantile tracking, conformal prediction) evaluated in simulation on historical data, and a text-to-SQL agent on local LLMs.
-- **Bachelor's thesis:** adaptive conformal prediction for time series. The update rule is learned while keeping provable coverage guarantees.
+- **Bachelor's thesis (in progress):** combining conformal prediction with reinforcement learning.
 - **Before that: Algorithm Engineer at Huawei.** Lower bounds for matrix-vector multiplication (with an RL-driven search), and neural inertial navigation for GPS-free tracking on wearables.
 
 ## Projects
